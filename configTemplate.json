@@ -1,0 +1,11 @@
+{
+"hiveBroker":"****",
+"hivePort":8883,
+"clientName": "None",
+"hiveUserName": "****",
+"hivePass": "****",
+"wifiName": "****",
+"wifiPassword": "****",
+"water": "None",
+"air": "None"
+}
